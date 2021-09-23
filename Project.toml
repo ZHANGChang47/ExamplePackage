@@ -1,0 +1,9 @@
+name = "ExamplePackage"
+uuid = "8d4a4e6e-c8f9-40e7-90e9-648b16ca7355"
+authors = ["Shu-Juan <2648492063@qq.com>"]
+version = "0.1.0"
+
+[deps]
+Distances = "b4f34e82-e78d-54a5-968a-f98e89d6e8f7"
+OffsetArrays = "6fe1bfb0-de20-5000-8ca7-80f57d26f881"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
